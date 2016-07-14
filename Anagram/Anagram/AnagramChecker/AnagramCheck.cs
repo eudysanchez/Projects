@@ -1,4 +1,5 @@
-﻿
+﻿//Reference: http://stackoverflow.com/questions/16141643/given-two-strings-is-one-an-anagram-of-the-other
+
 namespace Anagram.AnagramChecker
 {
     public class AnagramCheck : IAnagramCheck
