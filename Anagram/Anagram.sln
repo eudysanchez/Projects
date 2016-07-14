@@ -5,12 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{F40C0A97-DBFD-42B5-80CE-FC465B5395B7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AnagramChecker", "AnagramChecker", "{2DFD08DB-3CAC-4550-BEEF-F2CB9BD53A15}"
-	ProjectSection(SolutionItems) = preProject
-		Anagram\AnagramCheck.cs = Anagram\AnagramCheck.cs
-		Anagram\IAnagramCheck.cs = Anagram\IAnagramCheck.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
