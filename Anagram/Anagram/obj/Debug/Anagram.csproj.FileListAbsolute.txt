@@ -1,0 +1,2 @@
+c:\users\eudy\documents\visual studio 2015\Projects\Anagram\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\Eudy\Documents\visual studio 2015\Projects\Git Projects\Anagram\Anagram\bin\Debug\Anagram.exe.config
